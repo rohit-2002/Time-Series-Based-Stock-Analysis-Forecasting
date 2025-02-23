@@ -1,0 +1,13 @@
+statsmodels
+scikit-learn
+python-dateutil
+ta
+setuptools
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+numpy
+pandas_ta
